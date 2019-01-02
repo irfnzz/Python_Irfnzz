@@ -1,2 +1,8 @@
 # Python_Irfnzz
-First Python Repo
+
+First and testing
+
+## Acknowledgments
+
+* Using Python
+
